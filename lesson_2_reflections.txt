@@ -22,4 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
   
   When two branches are merged, all changes are integrated back through to their mutual parent.  We represent it in the diagram the way we do to show which branch contained its changes.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Pros: detects conflicts; incorporates all changes back to mutual parent.
+  Cons: Can't resolve conflicts.
+
 
