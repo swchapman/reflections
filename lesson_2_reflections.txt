@@ -1,5 +1,0 @@
-What happens when you initialize a repository? Why do you need to do it?
-
-  Git creates a repository in the directory from which you've run the command.  This is necessary because git will now track changes (via commits) to all files in the directory.
-
-
