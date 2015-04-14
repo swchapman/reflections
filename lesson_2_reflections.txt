@@ -6,4 +6,8 @@ How is the staging area different from the working directory and the repository?
 
   The staging area is an intermediary location for changes or additions to a repository.  It allows a user to leave out extraneous files or fix typos prior to committing them to the project.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+  Never update more than one file at a time, or make a commit for each logical change per file, annotating the reason for the commit each time.
+
 
