@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  Git creates a repository in the directory from which you've run the command.  This is necessary because git will now track changes (via commits) to all files in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area is an intermediary location for changes or additions to a repository.  It allows a user to leave out extraneous files or fix typos prior to committing them to the project.
+
+
