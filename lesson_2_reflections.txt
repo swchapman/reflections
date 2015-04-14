@@ -18,4 +18,8 @@ How do the diagrams help you visualize the branch structure?
 
   The branches help you figure out where your branch skewed from the master, so you'll be able to see what changes have occurred to master that don't apply to your branch, or see any other branches that might exist and how their changes apply.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  
+  When two branches are merged, all changes are integrated back through to their mutual parent.  We represent it in the diagram the way we do to show which branch contained its changes.
+
 
