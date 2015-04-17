@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
   If Git automatically stayed up-to-date with your remote repository, it could undo any changes you were working on that hadn't been committed yet.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Fork: A clone between two repositories on GitHub. Usefule when you want your work on a project to not alter the original repository.
+  Clone: A clone of another repository on the same or different system. Useful when you want to work on a project without affecting the original repository.
+  Branch: A variation of the main project that needs to be worked independently of the main project, but may someday be incorporated into the main project (i.e. adding a feature)
+
