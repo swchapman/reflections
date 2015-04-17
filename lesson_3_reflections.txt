@@ -16,4 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
   It allows you to have a backup of the project, and it also lets you start new modifications from a known point.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Without Git or GitHub, you'd have to pass your project back and forth between collaborators via email or a shared directory on a website.  It would be easier in that no one would have to learn git commands, but harder because everyone would be working off a static copy on their machines which would make merging/tracking changes much more labor intensive.
+
 
